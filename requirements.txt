@@ -1,0 +1,6 @@
+aiogram==3.3.0
+fastapi==0.109.2
+Pillow==10.2.0
+pyTelegramBotAPI==4.15.4
+pyTelegramBotAPI==4.15.4
+Requests==2.31.0
